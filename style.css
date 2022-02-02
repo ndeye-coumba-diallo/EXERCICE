@@ -1,0 +1,31 @@
+div.header{
+
+    background-color:blue;
+     padding: 12px;
+     color: white;
+     text-align: center;
+     text-transform: capitalize;
+   } 
+   
+   div,a {
+       margin-top:  22px; ;
+    }
+    a{
+        text-decoration: none;
+        color: blue;
+        border: 1px solid;
+        padding: 9px;
+        margin: 8px;
+        border-radius: 10px;
+    }
+    a:hover {
+        color: white;
+        background-color:blue;
+        transition: all 1.2s;
+     }
+
+     div.footer P {
+         color: white;
+         padding: 8px;
+         background-color: blue;
+     }
